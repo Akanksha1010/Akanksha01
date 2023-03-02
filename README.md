@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Akanksha1010
-- 👀 I’m interested in learning new technologies...
-- 🌱 I’m currently learning UIPath
+- 👋 Hi, I’m Akanksha Patel
+- 👀 I’m interested in learning and exploring various cloud related services.
+- 🌱 I’m currently exploring AWS,Azure,GCP and all various cloud platforms.
 - 💞️ I’m looking to collaborate on open source projects with great learning and experiences.
 - 📫 How to reach me ....By my mail id : akanksha01patel@gmail.com
 
